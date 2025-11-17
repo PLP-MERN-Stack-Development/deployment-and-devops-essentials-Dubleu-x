@@ -4,6 +4,12 @@
 
 A full-stack MERN (MongoDB, Express.js, React, Node.js) application with complete CI/CD pipeline, production deployment, and monitoring setup.
 
+## Screenshots
+
+![Frontend Deployment](./img/Frontend.jpeg)
+![Deployed](./img/deployed.jpeg)
+![Backend](./img/backend.jpeg)
+
 ### 📍 Live URLs
 - **Frontend**: [https://your-app.vercel.app](https://your-app.vercel.app)
 - **Backend API**: [https://your-api.onrender.com](https://your-api.onrender.com)
